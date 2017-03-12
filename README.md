@@ -8,4 +8,4 @@ Basic Trivia Game
 * The remaining time is counting down.
 * The player should NOT be able to pick more than one answer for each question.
 
-
+Enjoy it on Heroku : https://enigmatic-scrubland-62005.herokuapp.com/
